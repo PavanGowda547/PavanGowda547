@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **curious and data-driven professional** wit
 ---
 
 ### 🌟 Let's Connect
-- 📫 Reach me at [Your Email] or connect on [LinkedIn](https://www.linkedin.com/in/pavan-gowda-r-b6b297260/).
+- 📫 Reach me at pavangowdanyr63@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/pavan-gowda-r-b6b297260/).
 - 💡 Open to collaborations on data projects and analytics challenges.
 - 🤝 Eager to learn, share knowledge, and grow with the data community.
 
