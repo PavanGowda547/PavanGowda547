@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm a **curious and data-driven professional** wit
 - **Visualization Tools**: Power BI, Matplotlib, Seaborn
 - **Data Tools**: Excel, Power Query
 - **Version Control**: Git, GitHub
-- **Statistics**: Hypothesis Testing, Probability
-- **Other Skills**: ETL Processes, Data Cleaning, Dashboard Creation
+- **Other Skills**: Data Cleaning, Dashboard Creation
 
 ---
 
